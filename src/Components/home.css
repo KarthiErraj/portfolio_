@@ -1,0 +1,149 @@
+.home {
+    background-color: black;
+    width: 100%;
+    height: 100vh;
+    /* overflow: hidden; This ensures that there's no unwanted scrollbars */
+}
+
+.navv {
+    margin-right: 544px;
+    margin-top: 40px;
+
+}
+
+.left {
+    margin-top: 100px;
+    margin-left: 0px;
+}
+
+.intro {
+    margin-left: 150px;
+}
+
+.right {
+    margin-left: 140px;
+    margin-top: 10px;
+    /* margin-bottom: 20px; */
+    border-radius: 50%;
+    width: 380px;
+    height: 380px;
+
+    /* height: 100%; */
+    overflow: hidden;
+    /* background-color: aliceblue; */
+}
+
+.name {
+    /* color: #7d0de7; */
+    color: rgb(29, 159, 29);
+}
+
+.bton {
+    border-radius: 20%;
+    width: 150px;
+    margin-top: 10px;
+
+}
+.img 
+{
+    width: 400px;
+    height: 400px;
+}
+.nav-link {
+    color: #28a745; /* Greenish color */
+    text-decoration: none; /* Remove default underline */
+    position: relative; /* Add relative positioning */}
+
+    .nav-link:hover::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        bottom: -2px; /* Adjust the position of the underline */
+        width: 100%;
+        height: 2px; /* Thickness of the underline */
+        background-color: #dadddb; /* Greenish color */
+    }
+
+/* after this education page css will takes here  */
+/* **************************************************************************************** */
+.eduation-bg {
+    width: 100%;
+    /* height: 100vh; */
+    background-image: url("C:\Users\karth\OneDrive\Documents\fullstack\port\src\Components\Images\bg11.jpg");
+    background-position: center;
+    background-size: cover;
+    }
+.navv-all
+{
+    margin-right: 100px;
+    font-weight: bolder;
+}
+.det
+{
+    margin-left: 50px;
+}
+.detail-1
+{
+    border-radius: 10%;
+}
+/* after this project css will be there */
+/*  *************************************************************  */
+.project-bg
+{
+    background-image: url('C:\Users\karth\OneDrive\Documents\fullstack\port\src\Components\Images\wp4020838.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+/* after this skills css will be there  */
+/*  *********************************************************** */
+.skills-bg
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url("C:\Users\karth\OneDrive\Documents\fullstack\port\src\Components\Images\wp4020838.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.html
+{
+    color: rgb(242, 114, 9);
+    
+    background-color: aliceblue;
+}
+.css
+{
+    color: aliceblue;
+    background-color: blue ;
+}
+.content
+{
+   background-color: #f0f8fec8;
+}
+
+/* after this contact css will there */
+/* ************************************  */
+.contact-bg
+{
+    width: 100%;
+    height: 100vh;
+    background-image: url("C:\Users\karth\OneDrive\Documents\fullstack\port\src\Components\Images\bg1.webp");
+    background-position: center;
+    background-size: cover;
+}
+.cont
+{
+    border-radius: 45%;
+    width: 10%;
+    margin: auto;
+    margin-top: 60px;
+    background-color: white; 
+    
+   /* background-image: url('C:\Users\karth\OneDrive\Documents\fullstack\file\portfolio\src\Components\img\book.jpg'); */
+}
+.mail1
+{
+   color: rgb(255, 119, 0);
+
+}
