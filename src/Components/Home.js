@@ -33,7 +33,7 @@ function Home() {
                         </div>
                     </nav>
                 </div>
-                <div className='row m-0'>
+                <div className='row m-0 mt-5'>
 
                     <div className='col-6 left text-light '>
                         <h1 className='intro'>Hello !... <br />

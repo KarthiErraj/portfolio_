@@ -40,7 +40,7 @@ function Project() {
         <div className='row m-auto'>
           <div className='col-3 ms-5 mt-5 '>
             <div class="card " >
-              <img src={rayan} class="card-img-top  border-dark" alt="..." style={{width:'262px', height:"150px"}}/>
+              <img src={rayan} class="card-img-top  border-dark" alt="..." style={{width:'100%', height:"150px"}}/>
               
             </div>
             <div class="card-body   ">
@@ -57,7 +57,7 @@ function Project() {
 
           <div className='col-3 ms-5 mt-5'>
             <div class="card" >
-              <img src={elite} class="card-img-top" alt="..." style={{width:'262px', height:"150px"}} />
+              <img src={elite} class="card-img-top" alt="..." style={{width:'100%', height:"150px"}} />
              
             </div>
             <div class="card-body  ">
@@ -74,7 +74,7 @@ function Project() {
 
           <div className='col-3 ms-5 mt-5 '>
             <div class="card" >
-              <img src={todo} class="card-img-top" alt="..."  style={{width:'262px', height:"150px"}}/>
+              <img src={todo} class="card-img-top" alt="..."  style={{width:'100%', height:"150px"}}/>
             
             </div>
             <div class="card-body  ">

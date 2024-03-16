@@ -1,7 +1,7 @@
 .home {
     background-color: black;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     /* overflow: hidden; This ensures that there's no unwanted scrollbars */
 }
 
@@ -94,14 +94,14 @@
     background-position: center;
     background-size: cover;
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
 }
 /* after this skills css will be there  */
 /*  *********************************************************** */
 .skills-bg
 {
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     background-image: url("../Components/Images/wp4020838.jpg");
     background-position: center;
     background-size: cover;
@@ -127,7 +127,7 @@
 .contact-bg
 {
     width: 100%;
-    height: 100vh;
+    /* height: 100vh; */
     background-image: url("../Components/Images/bg1.webp");
     background-position: center;
     background-size: cover;
